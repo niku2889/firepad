@@ -1,7 +1,5 @@
 {
- 
-  "schemaVersion" :1 ,
-  "templateId" :"node/8.7.0",
+
  
   "name": "firepad",
   "description": "Collaborative text editing powered by Firebase",
